@@ -1,4 +1,4 @@
-def escalonada_reduzida(matriz): #Código Fonte
+def escalonada_reduzida(matriz):
     # Determinando o número de linhas e colunas da matriz
     linha = len(matriz)
     coluna = len(matriz[0])
